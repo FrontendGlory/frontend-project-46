@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "dependencies": {
+    "makefile": "^0.0.2"
+  },
+  "name": "@hexlet/code",
+  "description": "[![Actions Status](https://github.com/FrontendGlory/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/FrontendGlory/frontend-project-46/actions)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "FrontendGlory"
+  },
+  "keywords": [
+    "Frontend",
+    "js"
+  ],
+  "author": "Vyacheslav Erey",
+  "license": "ISC"
+}
