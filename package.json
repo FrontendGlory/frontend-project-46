@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "commander": "^11.0.0",
     "makefile": "^0.0.2"
   },
   "name": "@hexlet/code",
